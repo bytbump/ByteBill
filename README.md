@@ -1,13 +1,14 @@
 # ByteBill by Byte Bump — Billing & Inventory (Windows)
 
-Ready-to-run Windows app + screenshots.
-
-## Run
-1. Open the `ByteBill` folder.
-2. Double-click **Install-ByteBill.bat** (no admin needed) — or run `ByteBill.exe` directly.
+## Install (client)
+1. Run **Setup-ByteBill-1.0.exe** → Next → Install (no admin needed).
+2. Open ByteBill from the Desktop icon.
 3. First launch: Settings → fill business details.
 
 ## Uninstall
-Run `Uninstall.exe` (keeps your bills & data by default), or Settings → Apps → ByteBill → Uninstall.
+Windows Settings → Apps → ByteBill → Uninstall (your bills & data are kept).
+
+## Screenshots
+See the `Screenshots/` folder (also used for marketing creatives).
 
 (C) ByteBump - A unit of Next Brain Mechatronics Pvt Ltd.
